@@ -1,0 +1,11 @@
+#js {
+    color: black;
+    background-color: yellow;
+    text-align: center;
+}
+
+.ins {
+    text-align: center;
+    font-size: 65px;
+    color: rgba(63, 56, 53, 0.89);
+}
